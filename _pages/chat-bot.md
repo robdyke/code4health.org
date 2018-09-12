@@ -27,9 +27,9 @@ title:  "Mental Health Chatbot & NLP Enabled Triage"
 
 <p><b><font color="#c0504d">Please note the instance of the Mental Health Triage ChatBot running below is for test and development purposes only and is not suitable to be used in a live patient assessment.</font></b></p>
 
-<div class="page-header"><h1>Mental Health Triage ChatBot<br>
+<h1>Mental Health Triage ChatBot</h1><br>
 
-<p><b>Say hello to the MhtBot</b></p>
+<h2><b>Say hello to the MhtBot</b></h2>
 
 <h3>Web Chat</h3>
 
