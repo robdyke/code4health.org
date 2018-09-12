@@ -15,13 +15,19 @@ title:  "Mental Health Chatbot & NLP Enabled Triage"
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-<p>The following bot was developed to show Mental Health Clinicians the art of what is possible in the area of chatbot development.</p>
+<p>The following bot was developed to show Mental Health Clinicians the art of what is possible in the area of chatbot development. The bot was designed in consultation with UK Mental Health Clinicians, and follows NICE guidelines.</p>
 
-<p>The bot was designed in consultation with UK Mental Health Clinicians, and follows NICE guidelines.</p>
+<p>A case study for the NLP Mental Health Chatbot can be found below;</p> 
+
+<center><a href="assets/publication/casestudy-mhchatbot.pdf" target="_blank"><img src="assets/img/mhchatbot-casestudy.png" width="20%"></a></center><br>
 
 <p>Prior to the existence of the bot, the lack of free text responses to important questions in such questionnaire like: why people are presenting, what has triggered a presentation, what is its effect / affect, did little to inform a clinicians view of a person’s mental health.</p>
 
 <p><span>Swift identification of suicidal ideation language is now possible via NLP and Affective computing tools in the the tool which can be used to inform triage.</span></p>
+
+<p><b><font color="#c0504d">Please note the instance of the Mental Health Triage ChatBot running below is for test and development purposes only and is not suitable to be used in a live patient assessment.</font></b></p>
+
+<div class="page-header"><h1>Mental Health Triage ChatBot<br>
 
 <p><b>Say hello to the MhtBot</b></p>
 
