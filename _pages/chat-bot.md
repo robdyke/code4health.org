@@ -19,7 +19,7 @@ title:  "Mental Health Chatbot & NLP Enabled Triage"
 
 <p>A case study for the NLP Mental Health Chatbot can be found below;</p> 
 
-<center><a href="assets/publication/casestudy-mhchatbot.pdf" target="_blank"><img src="assets/img/mhchatbot-casestudy.png" width="20%"></a></center><br>
+<center><a href="/assets/publication/casestudy-mhchatbot.pdf" target="_blank"><img src="/assets/img/mhchatbot-casestudy.png" width="20%"></a></center><br>
 
 <p>Prior to the existence of the bot, the lack of free text responses to important questions in such questionnaire like: why people are presenting, what has triggered a presentation, what is its effect / affect, did little to inform a clinicians view of a person’s mental health.</p>
 
