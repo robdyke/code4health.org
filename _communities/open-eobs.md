@@ -6,7 +6,7 @@ www:  http://openeobs.org/
 git: https://github.com/AppertaFoundation/openeobs
 keywords: NEWS2, NEWS, observation, nursing, deteriorating, deterioration, sepsis, nurses, ward, therapeutic
 facebook: 
-twitter: code4health
+twitter: openeobs
 email: info@code4health.org
 forum: https://forums.apperta.org/c/open-eobs 
 --- 
