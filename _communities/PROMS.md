@@ -1,8 +1,12 @@
 ---
 name: Patient Related Outcome Measures (PROMs)
-description: “HealthTRaK “- an open source platform for recording and analysing PROMs 
+description: HealthTRaK - an open source platform for recording and analysing PROMs 
 stage: Beta
-www:  /HealthTRaK_PROMs/
+www: /HealthTRaK_PROMs/
 git: https://github.com/orgs/Apperta-PROMS/dashboard
 keywords: patient, related, outcome, measures, PROMs, analysing, analytics, reports
+facebook: 
+twitter: code4health
+email: info@code4health.org
+forum: http://forums.apperta.org 
 --- 
