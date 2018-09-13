@@ -100,7 +100,7 @@ title:  "Patient Reported Outcome Measures - PROMs (HealthTRaK)"
 
 <p>Ability to push data into the various national registries to avoid duplication and save time.</p>
 
-<p>Contact Angela Kingman <a href="mailto:angela.kingman@northumbria-healthcare.nhs.uk"></p>
+<p>Contact <a href="mailto:angela.kingman@northumbria-healthcare.nhs.uk">Angela Kingman</a></p>
 <p>Twitter <a href="https://twitter.com/outcomes_proms"></p>
 <br>
 </div>
