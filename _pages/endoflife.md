@@ -6,7 +6,7 @@ title:  "End of Life Care"
 
 <section class="bg-primary text-white" id="about" style="padding-bottom:50px">
       <div class="container text-center">
-        <h2 class="mb-4">{{ page.title }}</h2>
+        <h2 class="mb-4">End of Life Care</h2>
        </div>
        <hr class="light my-4">
 </section>
