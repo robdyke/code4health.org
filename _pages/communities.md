@@ -28,7 +28,7 @@ title:  "Communities"
                 <th>Name</th>
                 <th>Description</th>
                 <th>Stage</th>
-				<th>Community Website</th>
+				<th>More Info</th>
                 <th><i class="fab fa-github"></i> Git Location</th>
                 <th>Key Words</th>
             </tr>
@@ -40,7 +40,11 @@ title:  "Communities"
                 <td><p>{{ communities.description }}</p></td>
                 <td>{{ communities.stage }}</td>
                 <td><a href="{{ communities.www }}" target="_blank">Link</a></td>
+                 {% if communities.git == blank %}
+                <td>Coming Soon!</td>
+                 {% elsif  %}
                 <td><a href="{{ communities.git }}" target="_blank">Link</a></td>
+                 {% endif %}
                 <td>{{ communities.keywords }}</td>
             </tr>
         {% endfor %}
