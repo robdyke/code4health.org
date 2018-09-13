@@ -53,17 +53,23 @@ title:  "Patient Reported Outcome Measures - PROMs (HealthTRaK)"
               <p>Once the initial package above is working there are many potential extras that we would like to have going forward, including:</p>
               <ul>
                 <li><b>Additional methods to input outcomes</b></li>
-                <li>Tablets or PC browser entry by the patients in clinic within the hospitals intranet</li>
-                <li>Web and smartphone / tablet entry via the internet</li>
-                <li>Text responses</li>
-                <li>The ability for the software to generate bar coded questionnaires so they can be automatically posted out to patients and automatically read when returned, and ascribed to the correct patient and operation/intervention.</li>
-                <li><b>Additional functionality</b></li>
-                <li>Automatic prompts when post-operative responses are due</li>
-                <li>Prompts when questionnaires have not been received</li>
+                  <ul>
+                    <li>Tablets or PC browser entry by the patients in clinic within the hospitals intranet</li>
+                    <li>Web and smartphone / tablet entry via the internet</li>
+                    <li>Text responses</li>
+                    <li>The ability for the software to generate bar coded questionnaires so they can be automatically posted out to patients and automatically read when returned, and ascribed to the correct patient and operation/intervention.</li>
+                  </ul>
+                  <li><b>Additional functionality</b></li>
+                  <ul>
+                    <li>Automatic prompts when post-operative responses are due</li>
+                    <li>Prompts when questionnaires have not been received</li>
+                  </ul>
                 <li><b>Reporting module</b></li>
-                <li>Ability to analyse data and view charts, graphs, and tables with a variety of queries possible. This will allow real time data to be available to clinicians and teams within hospitals.</li>
-                <li><b>Data push into national registries</b></li>
-                <li>Ability to push data into the various national registries to avoid duplication and save time.</li>
+                  <ul>
+                    <li>Ability to analyse data and view charts, graphs, and tables with a variety of queries possible. This will allow real time data to be available to clinicians and teams within hospitals.</li>
+                    <li><b>Data push into national registries</b></li>
+                    <li>Ability to push data into the various national registries to avoid duplication and save time.</li>
+                  </ul>
               </ul>
               <p>Contact <a href="mailto:angela.kingman@northumbria-healthcare.nhs.uk">Angela Kingman</a></p>
               <p>Twitter <a href="https://twitter.com/outcomes_proms"><i class="fab fa-twitter fa-3x"></i></a></p>
