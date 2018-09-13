@@ -71,9 +71,14 @@ title:  "Patient Reported Outcome Measures - PROMs (HealthTRaK)"
               </ul>
               <p>Contact Angela Kingman</p>
               <div class="row">
-                <a href="mailto:angela.kingman@northumbria-healthcare.nhs.uk"><i class="fas fa-envelope fa-2x"></i></a>
-                <a href="https://twitter.com/outcomes_proms"><i class="fab fa-twitter fa-2x"></i></a>
+                <div class="col-md-2 mr-auto text-center">
+                   <a href="mailto:angela.kingman@northumbria-healthcare.nhs.uk"><i class="fas fa-envelope fa-2x sr-contact"></i></a>     
+                </div>
+                <div class="col-md-2 mr-auto text-center">
+                    <a href="https://twitter.com/outcomes_proms"> <i class="fab fa-twitter fa-2x sr-contact"></i></a>
+                </div>
               </div>
+                
           </div>
       </div>
   </div>
