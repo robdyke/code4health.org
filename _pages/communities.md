@@ -28,7 +28,8 @@ title:  "Communities"
                 <th>Name</th>
                 <th>Description</th>
                 <th>Stage</th>
-				<th>More Info</th>
+				<th>Community Website</th>
+                <th>Social</th>
                 <th><i class="fab fa-github"></i> Git Location</th>
                 <th>Key Words</th>
             </tr>
@@ -36,15 +37,39 @@ title:  "Communities"
         <tbody>
         {% for communities in site.communities %}
             <tr>
-                <td>{{ communities.name }}</td>
+                <td style="text-align:center; vertical-align:middle">{{ communities.name }}</td>
                 <td><p>{{ communities.description }}</p></td>
-                <td>{{ communities.stage }}</td>
-                <td><a href="{{ communities.www }}" target="_blank">Link</a></td>
-                 {% if communities.git == blank %}
-                <td>Coming Soon!</td>
-                 {% elsif  %}
-                <td><a href="{{ communities.git }}" target="_blank">Link</a></td>
-                 {% endif %}
+                <td style="text-align:center; vertical-align:middle">{{ communities.stage }}</td>      
+                <td style="text-align:center; vertical-align:middle">
+                {% if communities.www contains 'http' %}  
+                <a href="{{ communities.www }}" target="_blank">Link</a>
+                {% else %} 
+                <a href="{{ communities.www }}">Link</a>
+                {% endif %}
+                </td>
+                <td style="text-align:center; vertical-align:middle">
+                {% if communities.forum == null %}
+                {% else %}
+                <a href="{{ communities.forum }}"><i class="fas fa-comments fa-2x"></i></a>
+                {% endif %}
+                {% if communities.email == null %}
+                {% else %}
+                <a href="mailto:{{ communities.email }}"><i class="fas fa-envelope fa-2x"></i></a>
+                {% endif %}
+                {% if communities.twitter == null %}
+                {% else %}
+                <a href="http://twitter.com/{{ communities.twitter }}" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                {% endif %}
+                {% if communities.facebook == null %}
+                {% else %}
+                <a href="{{ communities.facebook }}" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                {% endif %}
+                </td>
+                {% if communities.git == null %}
+                <td></td>
+                {% else %}
+                <td style="text-align:center; vertical-align:middle"><a href="{{ communities.git }}" target="_blank"><i class="fab fa-github fa-2x"></i></a></td>
+                {% endif %}
                 <td>{{ communities.keywords }}</td>
             </tr>
         {% endfor %}
