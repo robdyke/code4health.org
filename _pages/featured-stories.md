@@ -1,6 +1,6 @@
 ---
 permalink: "/featured-stories/"
-layout: page
+layout: feature
 title:  "Featured Stories"
 ---
 
