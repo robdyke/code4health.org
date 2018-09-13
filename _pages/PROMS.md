@@ -15,7 +15,7 @@ title:  "Patient Reported Outcome Measures - PROMs (HealthTRaK)"
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-<p>Operations on patients always have an impact, hopefully for the better, sometimes for the worse. There is variability in outcomes, which can depend on patient factors but can also depend upon the surgical teams that perform the surgery. &nbsp;So that any variability in outcomes in patient groups can be studied and improvements in care made, ‘Outcome Measures’ are collected.&nbsp; These are often patient completed questionnaires to formally score patients pain and function before and after surgery. Patient Reported Outcome Measures are known as PROMs.</span><br>
+<p>Operations on patients always have an impact, hopefully for the better, sometimes for the worse. There is variability in outcomes, which can depend on patient factors but can also depend upon the surgical teams that perform the surgery. &nbsp;So that any variability in outcomes in patient groups can be studied and improvements in care made, ‘Outcome Measures’ are collected.&nbsp; These are often patient completed questionnaires to formally score patients pain and function before and after surgery. Patient Reported Outcome Measures are known as PROMs.<br>
 </p>
 
 <p>Some trusts now routinely collect questionnaires to compare patients’ pre-operative and post-operative scores to inform clinical practice and drive improvement. The questionnaires are normally specific to the operation that has been performed (e.g. knee replacement scores, or hernia scores) and most operations will also have a more general health status score applied as well (known as EQ-5D). EQ-5D can be applied across all aspects of healthcare and is a good way to work out how much impact an operation may have on health compared to say treatment for diabetes. This helps healthcare providers direct money to the interventions that have the most patient benefit.</p>
@@ -99,6 +99,9 @@ title:  "Patient Reported Outcome Measures - PROMs (HealthTRaK)"
 <p><b>Data push into national registries</b></p>
 
 <p>Ability to push data into the various national registries to avoid duplication and save time.</p>
+
+<p>Contact <a href="mailto:angela.kingman@northumbria-healthcare.nhs.uk">Angela Kingman</a></p>
+<p>Twitter <a href="https://twitter.com/outcomes_proms"></p>
 <br>
 </div>
 	  </div>
