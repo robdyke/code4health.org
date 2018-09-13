@@ -6,7 +6,7 @@ title:  "Training Improvement"
 
 <section class="bg-primary text-white" id="about" style="padding-bottom:50px">
       <div class="container text-center">
-        <h2 class="mb-4">Mental Health Chatbot & NLP Enabled Triage</h2>
+        <h2 class="mb-4">Training Improvement</h2>
        </div>
        <hr class="light my-4">
 </section>
