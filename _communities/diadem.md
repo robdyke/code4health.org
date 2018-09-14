@@ -5,4 +5,8 @@ stage: Production
 www:  https://diadem.apperta.org/
 git: https://github.com/AppertaFoundation/Diadem
 keywords: dementia, diadem, assessment 
+facebook: 
+twitter: diadem_app
+email: info@code4health.org
+forum: https://forums.apperta.org/c/DiADeM 
 --- 
