@@ -1,12 +1,12 @@
 ---
-permalink: "/cancer-pathways/"
+permalink: "/paracetamol-pathways/"
 layout: page
-title:  "Cancer Pathways"
+title:  "Paracetamol Pathways"
 ---
 
 <section class="bg-primary text-white" id="about" style="padding-bottom:50px">
       <div class="container text-center">
-        <h2 class="mb-4">Cancer Pathways</h2>
+        <h2 class="mb-4">{{ page.title }}</h2>
        </div>
        <hr class="light my-4">
 </section>
@@ -15,18 +15,17 @@ title:  "Cancer Pathways"
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-<p>When a patient is diagnosed with cancer, their world is turned upside down. They are often bombarded with paper-based information and signposted to generic websites, without clear guidance of what relates to them. Throughout the ongoing patient journey, information delivery is often patchy and limited by physician time.&nbsp; This has been formally acknowledged in the 2014 National Cancer Patient Survey, which reported that patient information provision is often suboptimal. </p>
+<p>The Paracetamol Pathway Application was originally inspired by a presentation delivered at the <a href="http://e-p-a.org/news/care-pathways-for-quality-improvement-learning-from-the-liverpool-care-pathway/" target="_blank">European Care Pathways Association conference in London on the 26th Feb 2014. </p>
 
-<p>Provision of high quality, consistent and easily accessible information is vital in the management of cancer patients. As a solution, we have developed a prototype web-based application that provides clear and accessible personalised patient information. </p>
+<p>This presentation described the complexities of the assessment and treatment of paracetamol overdose and how simplification of the <a href="http://www.rcem.ac.uk/RCEM/Quality_Policy/Clinical_Standards_Guidance/RCEM_Guidance/Paracetamol_Overdose/RCEM/Quality-Policy/Clinical_Standards_Guidance/RCEM_Guidance_Folder/Paracetamol_Overdose.aspx?hkey=73011590-54b3-491e-a526-187d83af830a" target="_blank">Royal College of Emergency Medicine</a> pathway incorporating sequential steps in a paper tool has helped.</p>
 
-<p>The prototype is a password-protected web-based application, connected to the patient visit history. Personalised information and data e-cards can be developed, accessed and uploaded centrally at any time for patient review by the identified clinical team. This can include treatment information, contact details, letters, treatment summaries, photos and web-links. The App is functional regardless of mobile device and has strict access controls for privacy and security. All content is updated real-time with the latest version for all end users. The patient interface is simple and intuitive and can be adapted for use by other departments.</p>
+<p>It was apparent that an IT solution could take a different slant and introduce more simplicity at the user interface whilst retaining and improving accuracy in the underlying calculations and decision points.</p> 
 
-<p>There are currently no other existing applications which support personalised patient information delivery including patient letters and consultation summaries that are linked directly to the timeline of the patient journey. </p>
+<p>With this in mind a working prototype was created in HTML utilising the JQuery and JQueryUI framework and subsequently submitted as a Code4Health challenge. More recently extra functionality has been added to a further <a href="http://www.ideasofmine.net23.net/ParacetamolPathway/ParacetamolPathway.html" target="_blank">working prototype</a>.</p> 
 
-<p>A demo of Pathways can be viewed below:</p>
+This approach has the added potential of being capable of harvesting data at a granular level which may be utilised in the future to further refine the pathway, this dovetails well with an "improvement framework" that was presented to the European Care Pathways conference in Reggio Emilia Italy with co-authors Karen Green and Gill Pope.</p>
 
-<p><iframe width="300" height="169" src="https://www.youtube.com/embed/6phS7qPDLXA" frameborder="0" allowfullscreen=""></iframe><br>
-</p>
+Reference: Pope, G., Green, K. and Salter, J. (2015). “The Intelligence Framework” (a conceptual model to describe service quality) as an enabler for Quality Improvement. In: International Care Pathways Conference. Reggio Emilia: University of Reggio Emilia.</p>
 
         
       </div>
