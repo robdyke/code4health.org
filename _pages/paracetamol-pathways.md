@@ -23,9 +23,9 @@ title:  "Paracetamol Pathways"
 
 <p>With this in mind a working prototype was created in HTML utilising the JQuery and JQueryUI framework and subsequently submitted as a Code4Health challenge. More recently extra functionality has been added to a further <a href="http://www.ideasofmine.net23.net/ParacetamolPathway/ParacetamolPathway.html" target="_blank">working prototype</a>.</p> 
 
-This approach has the added potential of being capable of harvesting data at a granular level which may be utilised in the future to further refine the pathway, this dovetails well with an "improvement framework" that was presented to the European Care Pathways conference in Reggio Emilia Italy with co-authors Karen Green and Gill Pope.</p>
+<p>This approach has the added potential of being capable of harvesting data at a granular level which may be utilised in the future to further refine the pathway, this dovetails well with an "improvement framework" that was presented to the European Care Pathways conference in Reggio Emilia Italy with co-authors Karen Green and Gill Pope.</p>
 
-Reference: Pope, G., Green, K. and Salter, J. (2015). “The Intelligence Framework” (a conceptual model to describe service quality) as an enabler for Quality Improvement. In: International Care Pathways Conference. Reggio Emilia: University of Reggio Emilia.</p>
+<p>Reference: Pope, G., Green, K. and Salter, J. (2015). “The Intelligence Framework” (a conceptual model to describe service quality) as an enabler for Quality Improvement. In: International Care Pathways Conference. Reggio Emilia: University of Reggio Emilia.</p>
 
         
       </div>
