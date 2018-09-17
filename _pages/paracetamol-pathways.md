@@ -15,7 +15,7 @@ title:  "Paracetamol Pathways"
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-<p>The Paracetamol Pathway Application was originally inspired by a presentation delivered at the <a href="http://e-p-a.org/news/care-pathways-for-quality-improvement-learning-from-the-liverpool-care-pathway/" target="_blank">European Care Pathways Association conference in London on the 26th Feb 2014. </p>
+<p>The Paracetamol Pathway Application was originally inspired by a presentation delivered at the <a href="http://e-p-a.org/news/care-pathways-for-quality-improvement-learning-from-the-liverpool-care-pathway/" target="_blank">European Care Pathways Association</a> conference in London on the 26th Feb 2014. </p>
 
 <p>This presentation described the complexities of the assessment and treatment of paracetamol overdose and how simplification of the <a href="http://www.rcem.ac.uk/RCEM/Quality_Policy/Clinical_Standards_Guidance/RCEM_Guidance/Paracetamol_Overdose/RCEM/Quality-Policy/Clinical_Standards_Guidance/RCEM_Guidance_Folder/Paracetamol_Overdose.aspx?hkey=73011590-54b3-491e-a526-187d83af830a" target="_blank">Royal College of Emergency Medicine</a> pathway incorporating sequential steps in a paper tool has helped.</p>
 
