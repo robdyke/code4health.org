@@ -9,4 +9,5 @@ facebook:
 twitter: jacswork
 email: info@code4health.org
 forum: http://forums.apperta.org 
+casestudy: /assets/publication/casetstudy-mhchatbot.pdf
 --- 
