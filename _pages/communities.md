@@ -28,7 +28,8 @@ title:  "Communities"
                 <th>Name</th>
                 <th>Description</th>
                 <th>Stage</th>
-				<th>Community Website</th>
+				<th>Community Website(s)</th>
+                <th>Case Study</th>
                 <th>Social</th>
                 <th><i class="fab fa-github"></i> Git Location</th>
                 <th>Key Words</th>
@@ -45,6 +46,17 @@ title:  "Communities"
                 <a href="{{ communities.www }}" target="_blank"><i class="fas fa-globe fa-2x"></i></a>
                 {% else %} 
                 <a href="{{ communities.www }}"><i class="fas fa-globe fa-2x"></i></a>
+                {% endif %}
+                </td>
+                <td style="text-align:center; vertical-align:middle">
+                {% if communities.casestudy == null %}
+                </td>
+                {% else %}
+                {% if communities.casestudy contains 'http' %}  
+                <a href="{{ communities.casestudy }}" target="_blank"><i class="fas fa-file-alt fa-2x"></i></a>
+                {% else %} 
+                <a href="{{ communities.casestudy }}"><i class="fas fa-file-alt fa-2x"></i></a>
+                {% endif %}
                 {% endif %}
                 </td>
                 <td style="text-align:center; vertical-align:middle">
