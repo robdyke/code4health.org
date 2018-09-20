@@ -75,6 +75,10 @@ title:  "Communities"
                 {% else %}
                 <a href="{{ communities.facebook }}" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
                 {% endif %}
+                {% if communities.youtube ==null %}
+                {% else %}
+                <a href="{{ communities.youtube }}" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+                {% endif %}
                 </td>
                 {% if communities.git == null %}
                 <td></td>
