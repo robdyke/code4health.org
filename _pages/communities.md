@@ -50,7 +50,6 @@ title:  "Communities"
                 </td>
                 <td style="text-align:center; vertical-align:middle">
                 {% if communities.casestudy == null %}
-                </td>
                 {% else %}
                 {% if communities.casestudy contains 'http' %}  
                 <a href="{{ communities.casestudy }}" target="_blank"><i class="fas fa-file-alt fa-2x"></i></a>
