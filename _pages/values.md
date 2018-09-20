@@ -15,7 +15,7 @@ title:  "Values"
     <div class="container">
         <div class="row">
           <div class="col-lg-12">
-			<p>Code4Health has continued to grow and evolve over the last two years. We couldn’t continue our work without the input from our communities and backing from our supporters.</p>
+			<p>Code4Health has continued to grow and evolve over the last five years. We couldn’t continue our work without the input from our communities and backing from our supporters.</p>
 			<p>Our values recognise the importance of everyone involved and explains what we should expect from each other:</p>
 				<ul>
 					<li>Listen to each other, we will respond to issues raised by communities and supporters and will include your ideas and suggestions in our own discussions.</li>
