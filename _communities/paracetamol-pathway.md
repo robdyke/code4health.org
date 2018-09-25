@@ -9,4 +9,6 @@ facebook:
 twitter: code4health
 email: info@code4health.org
 forum: http://forums.apperta.org 
+casestudy: /assets/publication/ParacetamolOverdose.pdf
+youtube: https://www.youtube.com/watch?v=DNIH5AgjjgE&feature=youtu.be
 --- 
