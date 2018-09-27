@@ -42,10 +42,13 @@ title:  "Communities"
                 <td><p>{{ communities.description }}</p></td>
                 <td style="text-align:center; vertical-align:middle">{{ communities.stage }}</td>      
                 <td style="text-align:center; vertical-align:middle">
+                {% if communities.www == null %}
+                {% else %}
                 {% if communities.www contains 'http' %}  
                 <a href="{{ communities.www }}" target="_blank"><i class="fas fa-globe fa-2x"></i></a>
                 {% else %} 
                 <a href="{{ communities.www }}"><i class="fas fa-globe fa-2x"></i></a>
+                {% endif %}
                 {% endif %}
                 </td>
                 <td style="text-align:center; vertical-align:middle">
