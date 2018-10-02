@@ -4,7 +4,7 @@ description: A chat bot developed to show Mental Health Clinicians the art of wh
 stage: Beta
 www:  /chat-bot
 git: https://github.com/AppertaFoundation/MHTriageChatBot
-keywords: Mind, ChatBot, Mental, Health
+keywords: Mind, ChatBot, Mental, Health, AI, artificial, intelligence
 facebook: 
 twitter: jacswork
 email: info@code4health.org
