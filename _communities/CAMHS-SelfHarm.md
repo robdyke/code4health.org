@@ -1,6 +1,6 @@
 ---
 name: CAMHS - Self Harm Prevention Tool
-description: Students over at UCL have developed a prototype with Royal Bolton Hospital has been helping the youth community affected by mental health and behaviour disorders with the CAMHS program for the past years. We have been asked to design an interactive workbook which is going to be used by the clinicians that, during the CAMHS session with young people, are going to use to suggest topics and ways for the patient to cope with his problems. Our solution involves building a cross-platform tablet app that is going to be the companion tool for clinicians to work through the sessions and quickly provide useful contacts, open relevant websites from the app and share some notes taken during the session via email. 
+description: Students at UCL have worked with the Royal Bolton Hospital to develop a prototype "Self Harm Prevention tool" to help the youth community affected by mental health and behaviour disorders within the CAMHS program. The solution is a cross-platform tablet app that acts as a companion tool for clinicians to use during sessions with patients to quickly provide useful contacts, open relevant websites from within the app and share notes taken during the session via email. 
 stage: Alpha
 www:  
 git: https://github.com/AppertaFoundation/UCL_CAMHS
