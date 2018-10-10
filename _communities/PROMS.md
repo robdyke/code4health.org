@@ -2,7 +2,7 @@
 name: Patient Related Outcome Measures (PROMs)
 description: open-PROMS - an open source platform for recording and analysing PROMs 
 stage: Beta
-www: /open-PROMs/
+www: /PROMs/
 git: https://github.com/orgs/Apperta-PROMS/dashboard
 keywords: patient, related, outcome, measures, PROMs, analysing, analytics, reports
 facebook: 
