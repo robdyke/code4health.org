@@ -1,12 +1,12 @@
 ---
-permalink: "/open-PROMS/"
+permalink: "/HealthTRaK-PROMS/"
 layout: page
-title:  "Patient Reported Outcome Measures - open-PROMs"
+title:  "Patient Reported Outcome Measures - HealthTRaK PROMs"
 ---
 
 <section class="bg-primary text-white" id="about" style="padding-bottom:50px">
       <div class="container text-center">
-        <h2 class="mb-4">Patient Reported Outcome Measures - open-PROMs</h2>
+        <h2 class="mb-4">Patient Reported Outcome Measures - HealthTRaK PROMS</h2>
        </div>
        <hr class="light my-4">
 </section>
