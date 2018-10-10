@@ -1,5 +1,5 @@
 ---
-permalink: "/PROMs/"
+permalink: "/open-PROMs/"
 layout: page
 title:  "Patient Reported Outcome Measures - open-PROMs
 ---
