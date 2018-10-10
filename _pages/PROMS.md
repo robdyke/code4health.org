@@ -1,7 +1,7 @@
 ---
 permalink: "/PROMS/"
 layout: page
-title:  "Patient Reported Outcome Measures - open-PROMs
+title:  "Patient Reported Outcome Measures - open-PROMs"
 ---
 
 <section class="bg-primary text-white" id="about" style="padding-bottom:50px">
