@@ -1,5 +1,5 @@
 ---
-permalink: "/HealthTRaK-PROMS/"
+permalink: "/HealthTRaK_PROMS/"
 layout: page
 title:  "Patient Reported Outcome Measures - HealthTRaK PROMs"
 ---
