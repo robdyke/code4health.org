@@ -69,14 +69,14 @@ title:  "Patient Reported Outcome Measures - HealthTRaK PROMs"
                     <li>Ability to push data into the various national registries to avoid duplication and save time.</li>
                   </ul>
               </ul>
-              <p>Contact Anji Kingman</p>
+              <p>Contact Anji Kingman or join our forum</p>
               <div class="row">
                 <ul>
                   <li><a href="mailto:angela.kingman@northumbria-healthcare.nhs.uk"><i class="fas fa-envelope fa-2x sr-contact"></i></a></li>     
                   <li><a href="https://twitter.com/outcomes_proms"> <i class="fab fa-twitter fa-2x sr-contact"></i></a></li>
-               </ul>
-              </div>
-                
+                  <li><a href="https://forums.apperta.org/c/proms-subcommitee "><i class="fas fa-comments fa-2x sr-contact"></i></a></li>
+                </ul>
+              </div>            
           </div>
       </div>
   </div>
