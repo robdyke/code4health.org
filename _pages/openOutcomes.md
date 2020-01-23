@@ -27,29 +27,35 @@ title:  "openOutcomes - Patient Reported Outcome Measures (PROMs)"
           <p align="left"><h2>Next Steps</h2></p>
           <p align="left">We are now ready to move forward; the next phase will add other specialty modules and further functionality.</p>
           <p align="left">Orthopaedic questionnaires which have now been written as archetypes ready to be incorporated into the platform are...</p>
-          <li align="left">Foot & Ankle – MOXFQ, AOS, AOFAS, SAFAS, VISA-A, ATRS</li>
-          <li align="left">Upper Limb – OSS, OSIS, OES, Boston, PEM, URAM, QDash</li>
-          <li align="left">Hip – OHS, iHOT12, NAHS</li>
-          <li align="left">Spine – NDI, MDI, ODI, VAS back & leg, VAS arm & neck</li>
-          <li align="left">Knee – OKS, OKS (A&P), KOOS, Tegner, IKDC</li>
-          <li align="left">General MSK - MSKHQ</li>
-          <li align="left">General health– EQ-5D, Pain VAS, Patient Satisfaction</li>
+          <ul>
+            <li align="left">Foot & Ankle – MOXFQ, AOS, AOFAS, SAFAS, VISA-A, ATRS</li>
+            <li align="left">Upper Limb – OSS, OSIS, OES, Boston, PEM, URAM, QDash</li>
+            <li align="left">Hip – OHS, iHOT12, NAHS</li>
+            <li align="left">Spine – NDI, MDI, ODI, VAS back & leg, VAS arm & neck</li>
+            <li align="left">Knee – OKS, OKS (A&P), KOOS, Tegner, IKDC</li>
+            <li align="left">General MSK - MSKHQ</li>
+            <li align="left">General health– EQ-5D, Pain VAS, Patient Satisfaction</li>
+          </ul>
           <p align="left">We plan to add several other features, including...</p>
           <p align="left"><h3>Additional methods to input outcomes</h3></p>
-          <li align="left">Tablets or PC browser entry by the patients in clinic within the hospital’s intranet</li>
-          <li align="left">Web and smartphone / tablet entry via the internet</li>
-          <li align="left">Text responses</li>
-           <li align="left">The ability for the software to generate bar coded questionnaires so they can be automatically posted out to patients and automatically read when returned and ascribed to the correct patient and operation/intervention.</li>
+          <ul>
+            <li align="left">Tablets or PC browser entry by the patients in clinic within the hospital’s intranet</li>
+            <li align="left">Web and smartphone / tablet entry via the internet</li>
+            <li align="left">Text responses</li>
+            <li align="left">The ability for the software to generate bar coded questionnaires so they can be automatically posted out to patients and automatically read when returned and ascribed to the correct patient and operation/intervention.</li>
+           </ul>
           <p align="left"><h3>Additional functionality</h3></p>
-          <li align="left">Automatic prompts when post-operative responses are due</li>
-          <li align="left">Prompts when questionnaires have not been received</li>
-          <li align="left">Reporting module</li>
-          <li align="left">Ability to analyse data and view charts, graphs, and tables with a variety of queries possible. This will allow real time data to be available to clinicians and teams within hospitals.</li>
-          <li align="left">Data push into national registries</li>
-          <li align="left">Ability to push data into the various national registries to avoid duplication and save time.</li>
+          <ul>
+            <li align="left">Automatic prompts when post-operative responses are due</li>
+            <li align="left">Prompts when questionnaires have not been received</li>
+            <li align="left">Reporting module</li>
+            <li align="left">Ability to analyse data and view charts, graphs, and tables with a variety of queries possible. This will allow real time data to be available to clinicians and teams within hospitals.</li>
+            <li align="left">Data push into national registries</li>
+            <li align="left">Ability to push data into the various national registries to avoid duplication and save time.</li>
+          <ul>
           <p align="left"><h2>Over to you</h2></p>
           <p align="left">We want clinicians and their departments to get involved, subscribe to use the product and help to shape its future. Subscribers will be asked to take a seat on our committee if they so wish, to govern product development and to decide how future investment should be spent.</p>
-          <p>Contact Anji Kingman or join our forum</p>
+          <p>Contact Anji Kingman or join our forum</p></p>
                 <div class="row">
                 <ul>
                   <li><a href="mailto:angela.kingman@northumbria-healthcare.nhs.uk"><i class="fas fa-envelope fa-2x sr-contact"></i></a></li>     
