@@ -52,7 +52,7 @@ title:  "openOutcomes - Patient Reported Outcome Measures (PROMs)"
             <li align="left">Ability to analyse data and view charts, graphs, and tables with a variety of queries possible. This will allow real time data to be available to clinicians and teams within hospitals.</li>
             <li align="left">Data push into national registries</li>
             <li align="left">Ability to push data into the various national registries to avoid duplication and save time.</li>
-          <ul>
+          </ul>
           <p align="left"><h2>Over to you</h2></p>
           <p align="left">We want clinicians and their departments to get involved, subscribe to use the product and help to shape its future. Subscribers will be asked to take a seat on our committee if they so wish, to govern product development and to decide how future investment should be spent.</p>
           <p>Contact Anji Kingman or join our forum</p></p>
