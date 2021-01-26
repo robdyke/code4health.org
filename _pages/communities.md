@@ -64,7 +64,6 @@ title:  "Communities"
                 <td style="text-align:center; vertical-align:middle">
                 {% if communities.forum == null %}
                 {% else %}
-                <a href="{{ communities.forum }}" target="_blank"><i class="fas fa-comments fa-2x"></i></a>
                 {% endif %}
                 {% if communities.email == null %}
                 {% else %}
